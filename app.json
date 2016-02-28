@@ -1,0 +1,6 @@
+{
+  "name": "PHP Stack command for slack",
+  "description": "A command that simulates the behaviour of a stack for slack chat",
+  "repository": "",
+  "addons": []
+}
